@@ -1,0 +1,30 @@
+[
+  {
+      "name": "iPhone 16E",
+      "image": "IMAGES/16e .jpg",
+      "price": "$799",
+      "priceKsh": "90,000Ksh",
+      "features": "6.1-inch OLED display, A18 chip, 5G connectivity, Dual-camera system."
+  },
+  {
+      "name": "iPhone 16 Plain",
+      "image": "IMAGES/Iphone 16 .jpg",
+      "price": "$899",
+      "priceKsh": "110,000Ksh",
+      "features": "6.7-inch OLED display, A18 chip, Dual-camera with Night Mode."
+  },
+  {
+      "name": "iPhone 16 Pro",
+      "image": "IMAGES/16 pro.jpg",
+      "price": "$1099",
+      "priceKsh": "140,000Ksh",
+      "features": "6.1-inch ProMotion display, A18 Pro chip, Triple-camera with LiDAR."
+  },
+  {
+      "name": "iPhone 16 Pro Max",
+      "image": "IMAGES/16 promax.jpg",
+      "price": "$1299",
+      "priceKsh": "168,870Ksh",
+      "features": "6.9-inch ProMotion display, A18 Pro chip, 5x Telephoto, Titanium build."
+  }
+]
